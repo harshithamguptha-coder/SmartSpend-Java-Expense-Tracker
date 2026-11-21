@@ -6,6 +6,7 @@ SmartSpend is a Java console app for keeping track of everyday spending. Record 
 
 - Add an expense with an amount, category, date, and description.
 - View all recorded expenses.
+- Edit responses
 - Find expenses in a category such as Food or Travel.
 - Find expenses from a specific month.
 
