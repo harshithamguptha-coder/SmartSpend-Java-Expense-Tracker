@@ -33,3 +33,4 @@ Choose **1. Add expense** and try entering `250`, `Food`, `2026-11-21`, and `Lun
 Enter a positive amount and choose Food, Travel, Shopping, Education, or Others. Use `YYYY-MM-DD` for expense dates and `YYYY-MM` for month searches.
 
 The app stores up to 100 expenses in memory. Closing the app clears them.
+Use **Import / Export CSV** from the main menu to save a copy of your expenses.
